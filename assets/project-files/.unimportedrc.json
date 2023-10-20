@@ -1,0 +1,14 @@
+{
+  "entry": ["bin/index.js"],
+  "ignoreUnused": ["cli-real-favicon"],
+  "ignorePatterns": [
+    "bin/types.js",
+    "**/lib/**",
+    "**/bin/types/**",
+    "**/node_modules/**",
+    "jest.config.js",
+    "config/**",
+    "scripts/**",
+    "temp/**"
+  ]
+}
