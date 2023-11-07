@@ -1,4 +1,6 @@
-## 📞 Contact me
+## 📞 Get in touch
+
+<br/>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)][linkedin] <br/>
 [![Facebook Badge](https://img.shields.io/badge/Facebook-0866FF?logo=facebook&logoColor=fff&style=flat)][facebook] <br/>
