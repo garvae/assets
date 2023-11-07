@@ -9,7 +9,7 @@
 
 
 <div style="display: inline-block; margin-top: 2em; margin-bottom: 2em">
-    <img src="https://github.com/garvae/assets/blob/master/assets/img/garvae-contacts.svg?raw=true" alt="contact me" width="200px" height="200px">
+    <img src="https://github.com/garvae/assets/blob/master/assets/img/garvae-contacts.svg?raw=true" alt="Contacts QR-code" width="200px" height="200px">
 </div>
 
 🌐 [Contact page][garvae]
